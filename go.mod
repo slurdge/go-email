@@ -1,3 +1,3 @@
-module github.com/jordan-wright/email
+module github.com/slurdge/go-email
 
 go 1.13
